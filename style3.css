@@ -1,0 +1,31 @@
+h1{
+    text-align:center;
+}
+.one ,.two{
+    text-align:center;
+}
+
+.three {
+    text-align:center;
+}
+#text{
+font-size:15px;}
+body{
+ background: linear-gradient(to bottom, #66ccff 0%, #ff99cc 100%);}
+#texttwo{font-size:15px;}
+#btn{padding:9px 14px;
+    border-radius:13px;
+    color:white;
+    background-color:dodgerblue;
+    font-weight:bold;
+    font-size:21px;
+    margin:0 3 px;
+    border:none;
+    cursor:pointer;
+
+}
+ button:hover{background-color:white;
+    color:dodgerblue;
+    border:1px solid dodgerblue;
+
+}
